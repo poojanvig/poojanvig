@@ -1,6 +1,6 @@
-# readme
 # 💫 About Me:
 I am a highly motivated engineer with a passion for artificial intelligence and data science. I have a strong foundation in math, statistics, and computer science, and am proficient in programming languages such as Python and R. My experience includes working with machine learning algorithms, collecting, cleaning and analyzing data, as well as building and evaluating predictive models. I stay current with the latest advancements in the field by reading research papers and attending conferences and workshops. I am seeking opportunities to apply my skills to real-world problems and continue to develop my knowledge and experience in the field of AI and data science.
+<img align ='right' src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
 
 
 ## 🌐 Socials:
